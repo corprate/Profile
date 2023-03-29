@@ -12,6 +12,9 @@ h1,h2
 {
   color: black;
 }
+.circle{
+	border-radius: 100px;
+}
     
 	
 	
